@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/raf_m/Downloads/mlflow_energy_prediction/mlruns/0/655709bbf6d94bc38fae94d095fc800e/artifacts
+deleted_time: 1751287691750
+end_time: 1751287574323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 655709bbf6d94bc38fae94d095fc800e
+run_name: awesome-perch-643
+run_uuid: 655709bbf6d94bc38fae94d095fc800e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751287571120
+status: 3
+tags: []
+user_id: raf_m

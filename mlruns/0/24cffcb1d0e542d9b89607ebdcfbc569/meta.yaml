@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/raf_m/Downloads/mlflow_energy_prediction/mlruns/0/24cffcb1d0e542d9b89607ebdcfbc569/artifacts
+deleted_time: 1751287691750
+end_time: 1751287560983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 24cffcb1d0e542d9b89607ebdcfbc569
+run_name: worried-smelt-785
+run_uuid: 24cffcb1d0e542d9b89607ebdcfbc569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751287555307
+status: 3
+tags: []
+user_id: raf_m

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/raf_m/Downloads/mlflow_energy_prediction/mlruns/0/76a54f7380d344cb9101244a141cd1d3/artifacts
+end_time: 1751289139888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76a54f7380d344cb9101244a141cd1d3
+run_name: charming-hen-792
+run_uuid: 76a54f7380d344cb9101244a141cd1d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751289134854
+status: 3
+tags: []
+user_id: raf_m

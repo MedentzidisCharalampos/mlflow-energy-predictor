@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1751290886447
+current_stage: None
+description: ''
+last_updated_timestamp: 1751290886447
+name: energy_model
+run_id: 76a54f7380d344cb9101244a141cd1d3
+run_link: ''
+source: models:/energy_model/3
+status: READY
+status_message: null
+storage_location: file:///C:/Users/raf_m/Downloads/mlflow_energy_prediction/mlruns/0/76a54f7380d344cb9101244a141cd1d3/artifacts/model
+user_id: null
+version: 4
